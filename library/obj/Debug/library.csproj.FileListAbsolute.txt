@@ -1,0 +1,5 @@
+C:\Users\Jose\Documents\SimpleSolutionSA\trunk\libraries\trunk\library\bin\library.dll
+C:\Users\Jose\Documents\SimpleSolutionSA\trunk\libraries\trunk\library\bin\library.pdb
+C:\Users\Jose\Documents\SimpleSolutionSA\trunk\libraries\trunk\library\obj\Debug\library.csprojResolveAssemblyReference.cache
+C:\Users\Jose\Documents\SimpleSolutionSA\trunk\libraries\trunk\library\obj\Debug\library.dll
+C:\Users\Jose\Documents\SimpleSolutionSA\trunk\libraries\trunk\library\obj\Debug\library.pdb
