@@ -16,7 +16,6 @@ namespace library
         {
             using (var img = Image.FromFile(sourceFile)) 
             {
-                2
                 using (var targetImg = Convert(img, height, width, valign, halign))
                 {
                     string directory = Path.GetDirectoryName(targetFile);
