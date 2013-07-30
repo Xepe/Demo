@@ -20,7 +20,7 @@ namespace library
                 {
                     string directory = Path.GetDirectoryName(targetFile);
                     if (directory != null && !Directory.Exists(directory))
-                        Directory.CreateDirec tory(directory);
+                        Directory.CreateDirectory(directory);
 
                     if (Equals(ImageFormat.Jpeg, targetFormat))
                         SaveJpeg(targetFile, targetImg, 100);
