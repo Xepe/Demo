@@ -7,7 +7,7 @@ using System.Linq;
 
 namespace library
 {
-    public class ImageResizerk
+    public class ImageResizer
     {
         public enum VerticalAlign { Top, Middle, Bottom }
         public enum HorizontalAlign { Left, Middle, Right }
@@ -20,7 +20,7 @@ namespace library
                 {
                     string directory = Path.GetDirectoryName(targetFile);
                     if (directory != null && !Directory.Exists(directory))
-                        Directory.CreateDirectory(directory);
+                        Directory.CreateDirec tory(directory);
 
                     if (Equals(ImageFormat.Jpeg, targetFormat))
                         SaveJpeg(targetFile, targetImg, 100);

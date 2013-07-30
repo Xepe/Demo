@@ -3,3 +3,8 @@ C:\Users\Jose\Documents\SimpleSolutionSA\trunk\libraries\trunk\library\bin\libra
 C:\Users\Jose\Documents\SimpleSolutionSA\trunk\libraries\trunk\library\obj\Debug\library.csprojResolveAssemblyReference.cache
 C:\Users\Jose\Documents\SimpleSolutionSA\trunk\libraries\trunk\library\obj\Debug\library.dll
 C:\Users\Jose\Documents\SimpleSolutionSA\trunk\libraries\trunk\library\obj\Debug\library.pdb
+C:\Users\Jose\Documents\Github Xepe\Library\Demo\library\bin\library.dll
+C:\Users\Jose\Documents\Github Xepe\Library\Demo\library\bin\library.pdb
+C:\Users\Jose\Documents\Github Xepe\Library\Demo\library\obj\Debug\library.csprojResolveAssemblyReference.cache
+C:\Users\Jose\Documents\Github Xepe\Library\Demo\library\obj\Debug\library.dll
+C:\Users\Jose\Documents\Github Xepe\Library\Demo\library\obj\Debug\library.pdb
